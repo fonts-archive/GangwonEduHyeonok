@@ -15,7 +15,7 @@ font-family: 'GangwonEdu Hyeonok';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduHyeonok/GangwonEduHyeonok.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduHyeonok/GangwonEduHyeonok.css" type="text/css"/>
 ```
 
 &nbsp;
